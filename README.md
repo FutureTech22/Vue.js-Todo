@@ -2,6 +2,8 @@
 
 > Vue Todo Project
 
+This application was created while following a Scotch.io tutorial by Jeremy Kithome.
+
 ## Build Setup
 
 ``` bash
